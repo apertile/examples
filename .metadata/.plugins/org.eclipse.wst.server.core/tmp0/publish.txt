@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Jan 07 11:12:47 ART 2015
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\apertile\\.m2\\repository\\org\\springframework\\spring-web\\4.0.8.RELEASE\\spring-web-4.0.8.RELEASE.jar=C\:\\sts\\vfabric-tc-server-developer-2.9.6.RELEASE\\base-instance\\wtpwebapps\\securingWebApp\\WEB-INF\\lib\\spring-web-4.0.8.RELEASE.jar
+org.eclipse.jst.jee.server\:securingWebApp=C\:\\sts\\vfabric-tc-server-developer-2.9.6.RELEASE\\base-instance\\wtpwebapps\\securingWebApp
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\apertile\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\7.0.57\\tomcat-embed-websocket-7.0.57.jar=C\:\\sts\\vfabric-tc-server-developer-2.9.6.RELEASE\\base-instance\\wtpwebapps\\securingWebApp\\WEB-INF\\lib\\tomcat-embed-websocket-7.0.57.jar

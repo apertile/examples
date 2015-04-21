@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="gs-maven-yarn-container"/>
+<aop-project name="detectingADevice"/>
+<aop-project name="authenticating-ldap"/>
+<aop-project name="SpringWebMvcApp"/>
+<aop-project name="accessingDataJPA"/>
+<aop-project name="accessingDataMongoDB"/>
+<aop-project name="securingWebApp"/>
+<aop-project name="gs-maven-yarn-appmaster"/>
+<aop-project name="uploadFiles"/>
+<aop-project name="accessingMongoDBDataREST"/>
+<aop-project name="schedulingTasks"/>
+<aop-project name="caching"/>
+<aop-project name="relational-data-access"/>
+<aop-project name="gs-maven-yarn-dist"/>
+<aop-project name="gs-maven-yarn-client"/>
+<aop-project name="messaging-rabbitmq"/>
+</aop-reference-model>
